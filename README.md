@@ -24,7 +24,7 @@ You may have a project that you wrote in another language but you wish you wrote
 python decompiler.py my_prog > my_prog.sr
 ```
 ## it's not limited to executable files
-you can turn any file to soroush language. even if it's not executable
+you can decompile any file to soroush language. even if it's not executable
 ```
 python decompiler.py my_resume.pdf > my_resume.sr
 ```
